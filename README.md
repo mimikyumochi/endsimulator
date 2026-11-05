@@ -1,0 +1,1 @@
+# This project has been superseded by [Kumiko](https://github.com/mimikyumochi/kumiko), a work-in-progress 3D seed visualiser. It implements all the features in this repository and more, including more accurate terrain generation, End pillars, and chorus plants.
